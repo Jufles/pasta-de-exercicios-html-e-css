@@ -1,0 +1,39 @@
+@charset "UTF8";
+body {
+    background-color:#91b7beea;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+:root{
+     --cor1: red;
+     --cor2: rgba(113, 226, 37, 0.289);
+     --cor3: rgb(102, 77, 77); 
+     --cor5: rgb(58, 54, 54);
+     --cor6: rgb(243, 236, 236); 
+}
+h1#principal {
+   text-align: center;
+   color: rgb(14, 29, 237);
+}
+.Exemplo-de-classe {
+    color: rgb(50, 37, 167);
+    text-align: start;
+
+}
+h2 {
+    background-color: blue;
+}
+h2.Exemplo-de-classe-01{
+    background-color: rgb(87, 179, 57);
+}
+h2 {
+    text-align: center;
+}
+h1 {
+    text-align: center;
+}
+p {
+   font-style: italic;
+   font-size: 20px;
+   text-align: center;
+  
+}
